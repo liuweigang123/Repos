@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\project1\project1\源.cpp(6): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\project1\project1\源.cpp(7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\project1\project1\源.cpp(33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\project1\project1\源.cpp(34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\project1\project1\源.cpp(56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\project1\project1\源.cpp(52): error C4716: “kmp_algorithm”: 必须返回一个值
